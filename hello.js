@@ -1,6 +1,7 @@
 const a = () => {
     return alert("Hello1")
 }
-const b = () => {
 
+const b = () =>{
+    return 7
 }
