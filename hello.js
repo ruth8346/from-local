@@ -1,6 +1,6 @@
-const a = () =>{
-
+const a = () => {
+    return alert("Hello")
 }
-const b = () =>{
-    
+const b = () => {
+
 }
