@@ -10,3 +10,6 @@ const b = () =>{
 const e = () =>{
     alert("e")
 }
+const c = () =>{
+    console.log("log function c");
+}
