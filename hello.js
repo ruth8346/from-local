@@ -7,6 +7,9 @@ const b = () =>{
     return '5'
 }
 
+const d = () =>{
+    confirm ("Are you shure?")
+}
 const c = () =>{
     console.log("log function c");
 }
