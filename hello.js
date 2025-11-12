@@ -7,6 +7,9 @@ const b = () =>{
     return '5'
 }
 
+const e = () =>{
+    alert("e")
+}
 const d = () =>{
     confirm ("Are you shure?")
 }
