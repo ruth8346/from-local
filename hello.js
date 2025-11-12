@@ -10,6 +10,9 @@ const b = () =>{
 const e = () =>{
     alert("e")
 }
+const d = () =>{
+    confirm ("Are you shure?")
+}
 const c = () =>{
     console.log("log function c");
 }
